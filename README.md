@@ -35,6 +35,11 @@ Le notebook génère :
 * Une **Heatmap** des corrélations pour comprendre les liens entre les mesures (rayon, texture, périmètre, etc.).
 * Un **Bar Chart** comparatif des précisions pour chaque modèle.
 
+## 📁 Dataset
+Le jeu de données utilisé est le **Breast Cancer Wisconsin (Diagnostic) Dataset**.
+* Vous pouvez le télécharger directement sur [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data) ou via l'archive UCI.
+* Pour exécuter le notebook, placez le fichier `data.csv` dans le même dossier que le projet.
+
 ## 💻 Comment utiliser ce projet
 1. Téléchargez le dataset `data.csv`.
 2. Ouvrez le notebook `Prédiction du cancer du sein.ipynb` dans Jupyter ou Google Colab.
